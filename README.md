@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+<img src="screenshot.png" alt="drawing" width="100%"/>
 
 Hey 👋🏻,
 
