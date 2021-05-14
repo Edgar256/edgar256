@@ -1,4 +1,4 @@
-<img src="screenshot.png" alt="drawing" width="100%"/>
+<img src="screenshot.png" alt="screenshot" width="100%"/>
 
 Hey 👋🏻,
 
@@ -10,5 +10,7 @@ for and with JavaScript, TypeScript, ReactJS and NodeJS.
 
 ## 📬 Get in touch
 
-- Web: [edgar256.github.io][1]
-- LinkedIn: [linkedin.com/in/tinkamanyire-edgar][2]
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+- Web: [edgar256.github.io](https://edgar256.github.io)
+- LinkedIn: [linkedin.com/in/tinkamanyire-edgar](https://linkedin.com/in/tinkamanyire-edgar)
