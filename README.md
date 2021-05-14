@@ -1,16 +1,14 @@
-### Hi there 👋
+![Screenshot](screenshot.png)
 
-<!--
-**Edgar256/edgar256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey 👋🏻,
 
-Here are some ideas to get you started:
+I am a Full Stack Software Engineer at Mobile Paradigm Group
+🇦🇹. I am interested in, write about and develop (open source) software solutions
+for and with JavaScript, TypeScript, ReactJS and NodeJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- You can see what I am currently up to on [natterstefan.me][1]. -->
+
+## 📬 Get in touch
+
+- Web: [edgar256.github.io][1]
+- LinkedIn: [linkedin.com/in/tinkamanyire-edgar][2]
