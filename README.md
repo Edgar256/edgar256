@@ -14,7 +14,7 @@ for and with JavaScript, TypeScript, ReactJS and NodeJS.
 
 - Web: [edgar256.github.io](https://edgar256.github.io)
 - LinkedIn: [linkedin.com/in/tinkamanyire-edgar](https://linkedin.com/in/tinkamanyire-edgar)
-- Email: [mailto:tinka.edgar@gmail.com](tinka.edgar@gmail.com)
+- Email: [tinka.edgar@gmail.com](tinka.edgar@gmail.com)
 - Github: [https://github.com/Edgar256](https://github.com/Edgar256)
 - Stackover: [https://stackoverflow.com/users/6561907/edgar256](https://stackoverflow.com/users/6561907/edgar256)
 - Codewars: [https://www.codewars.com/users/Edgar256](https://www.codewars.com/users/Edgar256)
