@@ -1,5 +1,10 @@
 <img src="screenshot.png" alt="screenshot" width="100%"/>
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=Edgar256&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/Edgar256)
+[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+
+
 Hey 👋🏻,
 
 I am a Full Stack Software Engineer at Mobile Paradigm Group
