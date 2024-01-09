@@ -9,7 +9,7 @@ Hey 👋🏻,
 
 I am a Full Stack Software Engineer at Simba Group
 . I am interested in, write about and develop (open source) software solutions
-for and with JavaScript, TypeScript, ReactJS and NodeJS.
+using JavaScript, TypeScript, ReactJS , NodeJS, Firebase, PHP and Laravel.
 
 ## 📬 Get in touch
 
